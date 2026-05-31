@@ -6,8 +6,11 @@
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-master-apurvtyagis-projects.vercel.app/api?username=apurvtyagi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-git-master-apurvtyagis-projects.vercel.app/api/top-langs/?username=apurvtyagi&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+
+| 🛡️ 90% | ⚡ 12.8K | 📦 50K+ | 🔐 10+ |
+|:---:|:---:|:---:|:---:|
+| Critical vulns reduced | Security events/sec | Assets tracked | Years in security |
+
 </div>
 
 <div align="center">
@@ -33,13 +36,6 @@ research:
 <tr><td>🔗 <a href="https://github.com/apurvtyagi/aws-inventory-sync"><b>aws-inventory-sync</b></a> — AWS inventory sync with drift alerting · Python</td></tr>
 <tr><td>🔗 <a href="https://github.com/apurvtyagi/terraform"><b>terraform</b></a> — AWS 3-tier architecture (VPC, ALB, ECS, RDS) · TypeScript</td></tr>
 </table>
-
----
-
-## Recent Activity
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
