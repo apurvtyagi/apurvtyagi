@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=Apurv+Tyagi" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B949E&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Sr.+Security+Engineer+%C2%B7+AI%2FLLM+Researcher+%C2%B7+DefendTrack;10%2B+years+building+defended+infrastructure+at+cloud+scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=800&height=60&lines=Apurv+Tyagi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B949E&background=0D111700&center=true&vCenter=true&width=800&height=40&lines=Sr.+Security+Engineer+%C2%B7+AI%2FLLM+Researcher+%C2%B7+DefendTrack;10%2B+years+building+defended+infrastructure+at+cloud+scale" />
 </div>
 
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=apurvtyagi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvtyagi&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+  <img height="165" src="https://github-readme-stats-git-master-apurvtyagis-projects.vercel.app/api?username=apurvtyagi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-master-apurvtyagis-projects.vercel.app/api/top-langs/?username=apurvtyagi&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
 </div>
 
 <div align="center">
